@@ -1,0 +1,13 @@
+name: learner_dashboard
+title: learner_dashboard
+username:
+account: r4hds
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8757097
+bundleId: 7094437
+url: https://r4hds.shinyapps.io/learner_dashboard/
+when: 1681609629.59418
+lastSyncTime: 1681609629.59419
+asMultiple: FALSE
+asStatic: FALSE

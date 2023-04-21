@@ -1,0 +1,36 @@
+// app/styles/main.scss
+
+li {
+  .nav-link {
+    font-size: 1rem !important;
+    padding-left: 2rem !important;
+  }
+}
+
+body {
+  padding-top: 80px;
+}
+
+@media (min-width: 576px) {
+  nav {
+    height: 80px;
+    margin-block-end: 0;
+  }
+
+}
+
+thead, tbody, tfoot, tr, td, th {
+    cursor: pointer;
+}
+
+
+.add-margin {
+  margin-top: 10px;
+}
+
+
+.return {
+  display: block;
+  text-align: right;
+  margin-right: 5%;
+}
